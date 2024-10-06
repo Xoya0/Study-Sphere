@@ -28,7 +28,7 @@ StudySphere is an interactive online learning platform designed to facilitate co
 
 - Node.js (v14 or later)
 - npm (v6 or later)
-- MongoDB
+- Firebase
 
 ### Installation
 
@@ -70,16 +70,9 @@ StudySphere is an interactive online learning platform designed to facilitate co
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - OpenAI for the GPT-4 API
 - Agora.io for the video SDK
 - All contributors and supporters of the project
-
-## Contact
-
-For any queries, please reach out to [your-email@example.com](mailto:your-email@example.com).
