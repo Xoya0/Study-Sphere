@@ -1,0 +1,12 @@
+{
+  "name": "video-server",
+  "version": "1.0.0",
+  "description": "This is backend for video chat",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Aryan Kumar",
+  "license": "ISC"
+}
