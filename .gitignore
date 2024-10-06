@@ -15,3 +15,5 @@ yarn-error.log*
 # Build files
 build/
 dist/
+# Sensitive information
+live-video-rooms/firebaseServiceAccountKey.json
